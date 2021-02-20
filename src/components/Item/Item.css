@@ -1,0 +1,14 @@
+.row {
+    padding: 10px;
+    border-bottom: 1px solid silver;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.product {
+   display: flex;
+   justify-content: space-between;
+   flex: auto;
+   margin-right: 20px;
+}
